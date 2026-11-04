@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository focuses only on __Flask__ and __mysql.connector__ as the server framework.
+
 # What is this?
 Basically, this repository mostly is a template of an ___web application___ which has a pre-definied **back-end** and **front-end** _(separated optional use file)_ implemented.
 
