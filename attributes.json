@@ -1,0 +1,7 @@
+{
+	"DB_HOST": "host",
+	"DB_USERNAME": "user",
+	"DB_PASSWORD": "pass",
+	"DB_DATABASE": "mysql database"
+	"DB_USERS_TABLE": "the table for all your users credentials"
+}
