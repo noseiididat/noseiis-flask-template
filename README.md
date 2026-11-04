@@ -1,5 +1,6 @@
 > [!NOTE]
 > This repository focuses only on __Flask__ and __mysql.connector__ as the server framework.
+> Major features weren't implemented yet.
 
 > unstable-ALPHA/v1.0.0a (Wow! You're the earliest people to find this!)
 
